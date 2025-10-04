@@ -114,6 +114,7 @@ section {
     color: white;
     text-decoration: none;
     padding: 20px 30px;
+    font-weight: bold;
 }
 
 .menu a:hoover,
@@ -135,8 +136,23 @@ section {
 }
 
 
+#adela_vari { 
+  width: 350px; 
+  height: auto; 
+  border-radius: 50%;/
+}
 
-/*S
+
+#Adela 
+{ 
+    border-radius: 50%;
+    float: right;
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+}
+
+/*
 font-family: 'Raleway', sans-serif;
 font-family: 'Playfair Display', serif;
 */
