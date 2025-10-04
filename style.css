@@ -5,10 +5,14 @@ body {background-color: #e2d9d1;
     color:#282425;
     margin:0;
 }
-.fotogalerie, .kontakt 
+.fotogalerie 
 {
     background-color: #d2b6ad;
 }
+
+.kontakt
+{   background: #edb1f1; 
+    }
 
 .menu, .paticka 
 {
@@ -85,7 +89,14 @@ margin:0;
 padding:0;
 }
 
-/*
+#veverka { 
+  width: 350px; 
+  height: auto; 
+  border-radius: 50%;/
+}
+
+
+/*S
 font-family: 'Raleway', sans-serif;
 font-family: 'Playfair Display', serif;
 */
