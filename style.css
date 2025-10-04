@@ -114,12 +114,42 @@ section {
     color: white;
     text-decoration: none;
     padding: 20px 30px;
+    font-weight: bold;
 }
 
 .menu a:hoover,
 .menu a:focus,
 .menu a:active {
     background-color: #756158;
+}
+
+#veverka { 
+  width: 350px; 
+  height: auto; 
+  border-radius: 50%;/
+}
+
+#adela_vari { 
+  width: 350px; 
+  height: auto; 
+  border-radius: 50%;/
+}
+
+
+#adela_vari { 
+  width: 350px; 
+  height: auto; 
+  border-radius: 50%;/
+}
+
+
+#Adela 
+{ 
+    border-radius: 50%;
+    float: right;
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
 }
 
 /*
