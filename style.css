@@ -114,6 +114,7 @@ section {
     color: white;
     text-decoration: none;
     padding: 20px 30px;
+    font-weight: bold;
 }
 
 .menu a:hoover,
