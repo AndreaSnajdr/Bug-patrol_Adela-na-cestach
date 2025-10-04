@@ -128,8 +128,16 @@ section {
   border-radius: 50%;/
 }
 
+#Adela 
+{ 
+    border-radius: 50%;
+    float: right;
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+}
 
-/*S
+/*
 font-family: 'Raleway', sans-serif;
 font-family: 'Playfair Display', serif;
 */
