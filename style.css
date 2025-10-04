@@ -85,6 +85,13 @@ margin:0;
 padding:0;
 }
 
+.foto-pruvodce {
+    border-radius: 0 50px 50px 50px;
+    float: central;
+    margin: 10 10 35px 35px;
+    width: 350px;
+}
+
 /*
 font-family: 'Raleway', sans-serif;
 font-family: 'Playfair Display', serif;
