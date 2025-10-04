@@ -52,6 +52,7 @@ h2
 h3
 {
     font-size: 24px;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.7);
 }
 
 h1
@@ -77,12 +78,38 @@ h3
 section
 {
     padding: 50px 15%;
+    overflow: auto;
 }
 
 .menu
 {
 margin:0;
 padding:0;
+}
+
+.hlavicka {
+    padding: 150px 30px; 
+    background-image: url(obrazky/hlavicka.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+
+.menu a:hoover,
+.menu a:focus,
+.menu a:active {
+    background-color: #756158;
 }
 
 /*
