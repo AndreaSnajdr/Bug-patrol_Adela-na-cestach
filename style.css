@@ -85,10 +85,10 @@ margin:0;
 padding:0;
 }
 
-.foto-pruvodce {
+#Adela 
+{ 
     border-radius: 50%;
-    float: central;
-    margin: 10 10 35px 35px;
+    float: right;
     width: 350px;
     height: 350px;
     object-fit: cover;
